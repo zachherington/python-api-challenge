@@ -1,5 +1,0 @@
-# API STORAGE
-
-weather_api_key = "test1"
-
-gkey = "test2"
